@@ -1,1 +1,2 @@
-let = nomeDoHeroi (Thigas)
+let nomeDoHeroi = (Thigas)
+let xp = 500
